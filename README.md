@@ -1,2 +1,3 @@
-# dsa-projects
+# Hotel Management
 dsaprojects
+The Restaurant Billing System, developed in C, streamlines the restaurant’s billing process by offering a console-based interface for seamless invoice generation and record management. Leveraging struct types, the system organizes customer and item information efficiently, while modular functions ensure clear separation of responsibilities—such as headers, body content, and footers—enhancing maintainability and reducing errors. Every transaction is stored persistently in a file named RestaurantBill.dat, allowing users to retrieve past invoices and search specific records. The program supports dynamic input for multiple items per order and executes precise calculations for subtotals, discounts, taxes, and the grand total. Finally, a detailed bill is produced, displaying customer details, itemized charges, and a comprehensive financial summary to ensure transparency and accuracy.
